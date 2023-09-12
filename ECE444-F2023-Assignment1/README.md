@@ -9,3 +9,6 @@ Activity 2 (screenshot showing the output of the merge command on main branch):
 
 Activity 3 (screenshot showing the successful merge between Main and Develop with prior conflicts - now resolved):
 ![Alt text](image-3.png)
+
+Activity 4 (screenshot showing the commits of two python files containing class, functions and tests):
+![Alt text](image-4.png)
