@@ -1,1 +1,2 @@
 Commit 3 - done on develop branch -> to be rebased later
+This ece444 assignment assesses our knowledge of git prior to the course!
